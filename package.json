@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@syncfusion/ej2-react-spreadsheet": "^31.2.16"
+  }
+}
