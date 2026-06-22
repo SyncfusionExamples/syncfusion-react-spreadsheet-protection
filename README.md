@@ -39,7 +39,7 @@ This repository contains complete samples demonstrating how to enable sheet prot
 
 2. **Install Dependencies**
 
-    Install the React Spreadsheet package as a dependency
+    Install the Syncfusion React Spreadsheet package as a dependency
     ```bash
     npm install @syncfusion/ej2-react-spreadsheet --save
     ```
