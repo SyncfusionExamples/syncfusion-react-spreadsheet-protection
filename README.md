@@ -1,6 +1,6 @@
 # Syncfusion React Spreadsheet Protection
 
-This repository contains complete samples demonstrating how to enable sheet protection, workbook protection, and configure read-only cells in the Syncfusion React Spreadsheet component.
+This repository contains complete samples demonstrating how to enable sheet protection, workbook protection, and configure read-only cells in the [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) component.
 
 🔗 **Live Demo**
 
@@ -27,7 +27,7 @@ This repository contains complete samples demonstrating how to enable sheet prot
 
 🧩 **Technologies Used**
 
-- React + Syncfusion Spreadsheet
+- React + Spreadsheet
 
 🚀 **Getting Started**
 
@@ -62,7 +62,7 @@ This repository contains complete samples demonstrating how to enable sheet prot
 - Prevent unauthorized structural changes
 
 ## 📣 Try It Out
-Clone the repo, run the sample, and explore how to implement sheet protection, workbook protection, and read-only cells in your React application!
+Clone the repo, run the sample, and explore how to implement sheet protection, workbook protection, and read-only cells in your [React application](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor)!
 
 ## 📄 License and copyright
 
